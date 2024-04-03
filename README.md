@@ -2,7 +2,7 @@
 
 A brief description of your project.<br>
 
-![logo](https://placehold.co/800x200)
+![logo](https://placehold.co/850x200)
 
 ## Table of Contents
 
