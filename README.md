@@ -13,10 +13,9 @@ A brief description of your project.<br>
 ## Technology
 
 **Design:** Figma, Mermaid<br>
-**Document:** Swagger<br>
-**Architecture:** Hexagon<br>
-**Client:** React, Redux toolkit, Tailwind, Bootstrap<br>
-**Server:** Golang<br>
+**Document:** Swagger, Storybook<br>
+**Client:** Next.JS, Redux toolkit, Tailwind, Mantine<br>
+**Server:** Golang + fiber<br>
 **Testing:** Postman, Unittest
 
 ## Co-Developer
